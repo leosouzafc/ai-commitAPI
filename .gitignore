@@ -1,0 +1,25 @@
+# Ambientes virtuais
+venv/
+.env
+
+# Arquivos de cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs e temporários
+*.log
+*.tmp
+
+# Configuração de editores
+.vscode/
+
+# Dependências geradas (Poetry, Pipenv)
+.pipenv/
+.poetry/
+
+# Outros arquivos gerados
+dist/
+build/
+*.egg-info/
